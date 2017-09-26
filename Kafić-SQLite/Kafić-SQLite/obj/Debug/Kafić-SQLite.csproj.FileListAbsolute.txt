@@ -1,0 +1,8 @@
+C:\Users\Stef\Google Drive\Završni Rad\Kafić-SQLite\Kafić-SQLite\bin\Debug\Kafić-SQLite.exe.config
+C:\Users\Stef\Google Drive\Završni Rad\Kafić-SQLite\Kafić-SQLite\bin\Debug\Kafić-SQLite.exe
+C:\Users\Stef\Google Drive\Završni Rad\Kafić-SQLite\Kafić-SQLite\bin\Debug\Kafić-SQLite.pdb
+C:\Users\Stef\Google Drive\Završni Rad\Kafić-SQLite\Kafić-SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Stef\Google Drive\Završni Rad\Kafić-SQLite\Kafić-SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Stef\Google Drive\Završni Rad\Kafić-SQLite\Kafić-SQLite\obj\Debug\Kafić-SQLite.csprojResolveAssemblyReference.cache
+C:\Users\Stef\Google Drive\Završni Rad\Kafić-SQLite\Kafić-SQLite\obj\Debug\Kafić-SQLite.exe
+C:\Users\Stef\Google Drive\Završni Rad\Kafić-SQLite\Kafić-SQLite\obj\Debug\Kafić-SQLite.pdb
